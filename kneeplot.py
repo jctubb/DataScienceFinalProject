@@ -1,6 +1,6 @@
-#Visualize MRI data
 from IPython.core.display import display,HTML
 display(HTML('<style>.prompt{width: 0px; min-width: 0px; visibility: collapse}</style>'))
+
 
 import numpy as np
 import pandas as pd

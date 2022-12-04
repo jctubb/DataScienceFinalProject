@@ -1,4 +1,6 @@
-# DataScienceFinalProject
+# Data Science Final Project
+
+MRNet Knee Scan MRI Classification
 
 Dataset: https://stanfordmlgroup.github.io/competitions/mrnet/
 

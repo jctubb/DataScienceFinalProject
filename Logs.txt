@@ -1,8 +1,81 @@
+LR: 1e-10
+Momentum: 0.9
+Abnormal MRI AUC: 0.4627368421052632
+ACL Injury AUC: 0.4863916947250281
+Meniscus Injury AUC: 0.5135746606334841
+Abnormal MRI Accuracy: 0.20833333333333334
+ACL Injury Accuracy: 0.45
+Meniscus Injury Accuracy: 0.5666666666666667
+
+LR: 5e-10
+Momentum: 0.9
+Abnormal MRI AUC: 0.4652631578947368
+ACL Injury AUC: 0.49551066217732886
+Meniscus Injury AUC: 0.5141402714932126
+Abnormal MRI Accuracy: 0.20833333333333334
+ACL Injury Accuracy: 0.45
+Meniscus Injury Accuracy: 0.5666666666666667
+
 LR: 1e-07
-Momentum: 0.8
-Abnormal MRI AUC: 0.5785263157894737
-ACL Injury AUC: 0.5817901234567902
-Meniscus Injury AUC: 0.48359728506787336
-Abnormal MRI Accuracy: 0.7083333333333334
-ACL Injury Accuracy: 0.5583333333333333
-Meniscus Injury Accuracy: 0.4583333333333333
+Momentum: 0.9
+Abnormal MRI AUC: 0.52
+Abnormal MRI Accuracy: 0.8LR: 1e-07
+Momentum: 0.9
+Abnormal MRI AUC: 0.52
+Abnormal MRI Accuracy: 0.8LR: 1e-09
+Momentum: 0.9
+Abnormal MRI AUC: 0.4888421052631579
+Abnormal MRI Accuracy: 0.20833333333333334LR: 5e-09
+Momentum: 0.9
+Abnormal MRI AUC: 0.531157894736842
+Abnormal MRI Accuracy: 0.225LR: 8e-09
+Momentum: 0.9
+Abnormal MRI AUC: 0.5322105263157895
+Abnormal MRI Accuracy: 0.44166666666666665LR: 9e-09
+Momentum: 0.9
+Abnormal MRI AUC: 0.5252631578947368
+Abnormal MRI Accuracy: 0.49166666666666664LR: 1e-08
+Momentum: 0.9
+Abnormal MRI AUC: 0.5334736842105263
+Abnormal MRI Accuracy: 0.5416666666666666
+
+LR: 1e-08
+Momentum: 0.9
+Abnormal MRI AUC: 0.5465263157894736
+Abnormal MRI Accuracy: 0.7166666666666667
+
+LR: 1e-08
+Momentum: 0.9
+Abnormal MRI AUC: 0.5593684210526315
+Abnormal MRI Accuracy: 0.6916666666666667
+
+LR: 1.2e-08
+Momentum: 0.9
+Abnormal MRI AUC: 0.5505263157894736
+Abnormal MRI Accuracy: 0.725
+
+LR: 1.05e-08
+Momentum: 0.9
+Abnormal MRI AUC: 0.5444210526315789
+Abnormal MRI Accuracy: 0.6833333333333333
+
+LR: 1.1e-08
+Momentum: 0.9
+Abnormal MRI AUC: 0.5524210526315789
+Abnormal MRI Accuracy: 0.7
+
+LR: 1.11e-08
+Momentum: 0.9
+Abnormal MRI AUC: 0.5658947368421052
+Abnormal MRI Accuracy: 0.7416666666666667
+
+LR: 1.11e-08
+Momentum: 0.9
+Abnormal MRI AUC: 0.5604210526315789
+Abnormal MRI Accuracy: 0.775
+
+LR: 1.11e-08
+Momentum: 0.9
+Abnormal MRI AUC: 0.5637894736842106
+Abnormal MRI Accuracy: 0.75
+

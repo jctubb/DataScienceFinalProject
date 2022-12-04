@@ -79,3 +79,200 @@ Momentum: 0.9
 Abnormal MRI AUC: 0.5637894736842106
 Abnormal MRI Accuracy: 0.75
 
+LR: 1e-08
+Momentum: 0.5
+Abnormal MRI AUC: 0.5745263157894737
+Abnormal MRI Accuracy: 0.6583333333333333
+
+LR: 1e-08
+Momentum: 0.1
+Abnormal MRI AUC: 0.5717894736842105
+Abnormal MRI Accuracy: 0.575
+
+LR: 1e-08
+Momentum: 0.5
+Abnormal MRI AUC: 0.5637894736842106
+Abnormal MRI Accuracy: 0.6833333333333333
+
+LR: 1e-07
+Momentum: 0.5
+Abnormal MRI AUC: 0.5650526315789474
+Abnormal MRI Accuracy: 0.7416666666666667
+
+LR: 1e-07
+Momentum: 0.5
+Abnormal MRI AUC: 0.5673684210526315
+Abnormal MRI Accuracy: 0.725
+
+LR: 1e-07
+Momentum: 0.5
+Abnormal MRI AUC: 0.47178947368421054
+Abnormal MRI Accuracy: 0.7
+
+LR: 1e-07
+Momentum: 0.5
+Abnormal MRI AUC: 0.38063157894736843
+Abnormal MRI Accuracy: 0.7583333333333333
+
+LR: 1e-07
+Momentum: 0.5
+Epochs: 1
+Abnormal MRI AUC: 0.5172631578947369
+Abnormal MRI Accuracy: 0.675
+
+LR: 1e-07
+Momentum: 0.6
+Epochs: 3
+Abnormal MRI AUC: 0.5743157894736841
+Abnormal MRI Accuracy: 0.7416666666666667
+
+LR: 1e-06
+Momentum: 0.6
+Epochs: 3
+Abnormal MRI AUC: 0.46442105263157896
+Abnormal MRI Accuracy: 0.775
+
+LR: 1e-06
+Momentum: 0.6
+Epochs: 2
+Abnormal MRI AUC: 0.5482105263157895
+Abnormal MRI Accuracy: 0.775
+
+LR: 1e-07
+Momentum: 0.6
+Epochs: 2
+Abnormal MRI AUC: 0.5669473684210526
+Abnormal MRI Accuracy: 0.6916666666666667
+
+LR: 1e-07
+Momentum: 0.6
+Epochs: 2
+Abnormal MRI AUC: 0.4928421052631579
+Abnormal MRI Accuracy: 0.725
+
+LR: 1e-06
+Momentum: 0.6
+Epochs: 2
+Abnormal MRI AUC: 0.5355789473684212
+Abnormal MRI Accuracy: 0.5833333333333334
+
+LR: 1e-05
+Momentum: 0.6
+Epochs: 2
+Abnormal MRI AUC: 0.6831578947368421
+Abnormal MRI Accuracy: 0.7916666666666666
+
+LR: 1e-05
+Momentum: 0.6
+Epochs: 3
+Abnormal MRI AUC: 0.6787368421052632
+Abnormal MRI Accuracy: 0.7916666666666666
+
+LR: 5e-05
+Momentum: 0.6
+Epochs: 2
+Abnormal MRI AUC: 0.727157894736842
+Abnormal MRI Accuracy: 0.825
+
+LR: 0.0001
+Momentum: 0.6
+Epochs: 2
+Abnormal MRI AUC: 0.6122105263157895
+Abnormal MRI Accuracy: 0.825
+
+LR: 3e-05
+Momentum: 0.6
+Epochs: 2
+Abnormal MRI AUC: 0.6185263157894737
+Abnormal MRI Accuracy: 0.5166666666666667
+
+LR: 5e-05
+Momentum: 0.6
+Epochs: 2
+Abnormal MRI AUC: 0.6934736842105261
+Abnormal MRI Accuracy: 0.8
+
+LR: 5e-05
+Momentum: 0.6
+Epochs: 2
+Abnormal MRI AUC: 0.6821052631578948
+Abnormal MRI Accuracy: 0.7916666666666666
+
+LR: 1e-05
+Momentum: 0.6
+Epochs: 2
+Abnormal MRI AUC: 0.6206315789473684
+Abnormal MRI Accuracy: 0.7916666666666666
+
+LR: 1e-05
+Momentum: 0.6
+Epochs: 2
+Abnormal MRI AUC: 0.6858947368421052
+Abnormal MRI Accuracy: 0.7833333333333333
+
+LR: 8e-06
+Momentum: 0.6
+Epochs: 2
+Abnormal MRI AUC: 0.627157894736842
+Abnormal MRI Accuracy: 0.8166666666666667
+
+LR: 1.2e-05
+Momentum: 0.6
+Epochs: 2
+Abnormal MRI AUC: 0.6661052631578948
+Abnormal MRI Accuracy: 0.6
+
+LR: 2e-05
+Momentum: 0.6
+Epochs: 2
+Abnormal MRI AUC: 0.6412631578947368
+Abnormal MRI Accuracy: 0.7916666666666666
+
+LR: 1e-05
+Momentum: 0.9
+Epochs: 2
+Abnormal MRI AUC: 0.6677894736842106
+Abnormal MRI Accuracy: 0.7833333333333333
+
+LR: 5e-05
+Momentum: 0.9
+Epochs: 2
+Abnormal MRI AUC: 0.7246315789473684
+Abnormal MRI Accuracy: 0.7916666666666666
+
+LR: 0.0001
+Momentum: 0.9
+Epochs: 2
+Abnormal MRI AUC: 0.5633684210526316
+Abnormal MRI Accuracy: 0.7916666666666666
+
+LR: 4.5e-05
+Momentum: 0.9
+Epochs: 2
+Abnormal MRI AUC: 0.6690526315789473
+Abnormal MRI Accuracy: 0.7916666666666666
+
+LR: 5e-05
+Momentum: 0.8
+Epochs: 2
+Abnormal MRI AUC: 0.6559999999999999
+Abnormal MRI Accuracy: 0.7833333333333333
+
+LR: 5e-05
+Momentum: 0.6
+Epochs: 2
+Abnormal MRI AUC: 0.6484210526315789
+Abnormal MRI Accuracy: 0.825
+
+LR: 1e-05
+Momentum: 0.6
+Epochs: 2
+Abnormal MRI AUC: 0.600421052631579
+Abnormal MRI Accuracy: 0.7916666666666666
+
+LR: 5e-05
+Momentum: 0.7
+Epochs: 2
+Abnormal MRI AUC: 0.632421052631579
+Abnormal MRI Accuracy: 0.7916666666666666
+

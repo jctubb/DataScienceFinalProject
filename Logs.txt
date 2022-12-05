@@ -294,3 +294,21 @@ Epochs: 10
 Abnormal MRI AUC: 0.7141052631578948
 Abnormal MRI Accuracy: 0.8416666666666667
 
+LR: 5e-05
+Momentum: 0.6
+Epochs: 20
+Abnormal MRI AUC: 0.8054736842105263
+Abnormal MRI Accuracy: 0.8416666666666667
+
+LR: 5e-05
+Momentum: 0.6
+Epochs: 20
+Abnormal MRI AUC: 0.7313684210526316
+Abnormal MRI Accuracy: 0.8166666666666667
+
+LR: 5e-05
+Momentum: 0.6
+Epochs: 20
+Abnormal MRI AUC: 0.7313684210526316
+Abnormal MRI Accuracy: 0.7916666666666666
+
